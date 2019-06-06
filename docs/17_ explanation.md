@@ -1,7 +1,7 @@
 ---
 id: explanation
 title: Explanation
-sidebar_label: 说明
+sidebar_label: Explanation
 ---
 ### Available with wallet enable
 
